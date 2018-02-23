@@ -1,0 +1,4 @@
+Pigments==1.6
+Pygments==2.1.3
+virtualenv==15.1.0
+yamllint==1.8.1
